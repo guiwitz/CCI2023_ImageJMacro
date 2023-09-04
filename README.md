@@ -18,3 +18,7 @@ To be able to follow the course you need to know basic image analysis concepts a
 * “analyze particles” (connected component analysis)
 * ROIs
 * performing measurements
+
+## Material
+* Presentation: https://docs.google.com/presentation/d/1rA4XXI0Rv9PEAZuNlouJYNR4T0_IzqUcmKKu0lV5AQY/edit?usp=sharing
+* Youtube video: https://www.youtube.com/watch?v=o8tfkdcd3DA
