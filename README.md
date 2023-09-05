@@ -1,5 +1,6 @@
 # ImageJMacro_Introduction
 A first introduction to scripting in Fiji using the ImageJ Macro language.
+Material was prepared by [Anna Klemm](https://www.it.uu.se/katalog/annkl878) and presented by Elnaz Fazeli for the course Bioimage Analysis for Life Scientists, organized by Centre for Cellular Imaging at the University of Gothenburg.
 
 ## Learning Outcomes
 After the session you will be able to:
